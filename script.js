@@ -1,4 +1,3 @@
-// Initialize game variables
 let playerName;
 let playerScore = 0;
 let computerScore = 0;
